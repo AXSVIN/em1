@@ -13,7 +13,7 @@ const TIMEZONES = [
   'UTC',
 ];
 
-const API_BASE_URL = 'https://event-management-task.onrender.com';
+const API_BASE_URL = 'https://em1-ulgq.onrender.com/api';
 
 /**
  * Helper to convert UTC ISO string to a specific timezone string for display.
